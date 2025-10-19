@@ -24,6 +24,7 @@ NIM : 1313624002
 # Students (the person you taught to complete the assignments)
 
 1. Fujiono Nur ikhsan
+2. Leonard Dwi Chrisdiasa
 
 # AI Assistance
 
